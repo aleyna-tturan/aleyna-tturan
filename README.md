@@ -21,32 +21,6 @@
 
 To enable, add this workflow at **.github/workflows/generate-snake.yml**:
 
-```yaml
-name: Generate Contribution Snake
-on:
-  schedule:
-    - cron: '0 0 * * *'  # every day at midnight UTC
-  push:
-    branches:
-      - main
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Generate snake SVG
-        uses: platane/snk@v3
-        with:
-          output-image: dist/github-contribution-grid-snake.svg
-      - name: Commit & push SVG
-        run: |
-          git config user.name github-actions
-          git config user.email actions@users.noreply.github.com
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "chore: update contribution snake"
-          git push
-```  
-
 ---
 
 ### ⚙️ Tech Stack
@@ -96,7 +70,25 @@ jobs:
 ### 📌 Pinned Projects
 
 <p align="center">
-  [![Museum Guide](https://img.shields.io/badge/Museum%20Guide-React%20Native-FFB6C1?style=flat-square)](https://github.com/aleynaturan/museum-guide)
-  [![Raccoon Rascal](https://img.shields.io/badge/Raccoon%20Rascal-Unity-1CA3EC?style=flat-square)](https://github.com/aleynaturan/raccoon-adventure)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Vue%20%26%20GSAP-98FF98?style=flat-square)](https://github.com/aleynaturan/portfolio)
+  <a href="https://github.com/aleynaturan/museum-guide" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Museum%20Guide-React%20Native-FFB6C1?style=for-the-badge"
+      alt="Museum Guide"
+      height="30"
+    />
+  </a>
+  <a href="https://github.com/aleynaturan/raccoon-adventure" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Raccoon%20Rascal-Unity-1CA3EC?style=for-the-badge"
+      alt="Raccoon Rascal"
+      height="30"
+    />
+  </a>
+  <a href="https://github.com/aleynaturan/portfolio" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Vue%20%26%20GSAP-98FF98?style=for-the-badge"
+      alt="Portfolio"
+      height="30"
+    />
+  </a>
 </p>
