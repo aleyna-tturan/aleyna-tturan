@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" alt="Coding Magic" />
+<!-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" alt="Coding Magic" />
 </p>
 
 <h1 align="center">I'm <span style="color:#FFB6C1;">Aleyna Turan</span> 👋</h1>
@@ -54,8 +54,7 @@ To enable, add this workflow at **.github/workflows/generate-snake.yml**:
 
 ### ✨ Final Words
 
-> "Coding turns ideas into reality and challenges into achievements."  
-> "Kodlama, fikirleri gerçeğe, zorlukları başarıya dönüştürür."  
+> "Coding turns ideas into reality and challenges into achievements."    
 
 ---
 
