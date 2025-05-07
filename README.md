@@ -53,7 +53,7 @@
 
 ## 💡 Final Words  
 > “Coding turns ideas into reality and challenges into achievements.”  
-> “Kodlama, fikirleri gerçeğe, zorlukları başarıya dönüştürür.”  
+ 
 
 ---
 
