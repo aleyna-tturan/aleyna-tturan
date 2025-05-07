@@ -1,19 +1,24 @@
 name: Generate Contribution Snake
+
 on:
+  workflow_dispatch:      # 👈 bu satırı ekledik (elle tetikleme)
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight UTC
+    - cron: '0 0 * * *'   # her gün gece yarısı UTC
   push:
     branches:
       - main
+
 jobs:
   generate_snake:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate snake SVG
         uses: platane/snk@v3
         with:
           output-image: dist/github-contribution-grid-snake.svg
+
       - name: Commit and push SVG
         run: |
           git config user.name "github-actions"
@@ -21,4 +26,3 @@ jobs:
           git add dist/github-contribution-grid-snake.svg
           git commit -m "chore: update contribution snake"
           git push
-
