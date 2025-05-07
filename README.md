@@ -45,7 +45,7 @@ To enable, add this workflow at **.github/workflows/generate-snake.yml**:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aleyna-tturan&theme=radical&show_icons=true&hide_border=true" alt="GitHub stats" />  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleyna-tturan&theme=radical&hide_border=true" alt="Streak stats" />  
+ <!- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleyna-tturan&theme=radical&hide_border=true" alt="Streak stats" />  
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleyna-tturan&theme=radical" alt="Profile summary" />
 </p>
@@ -61,7 +61,7 @@ To enable, add this workflow at **.github/workflows/generate-snake.yml**:
 
 ### 👀 Profile Visits
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=aleyna-tturan&color=green" alt="Profile views" />
 </p>
 
