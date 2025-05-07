@@ -1,60 +1,75 @@
-<h1 align="center">Merhaba 👋, ben Aleyna Turan</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+<!-- ==================== HEADER ==================== -->
+<h1 align="center">I'm Aleyna Turan 👋</h1>
+<h3 align="center">Full-Stack Developer & Interactive Game Creator from Turkey</h3>
 
-<!-- Profil Görüntüleme Sayacı -->
+---
+
+<!-- ==================== ABOUT ME ==================== -->
+### About Me
+- 💻 **Full-stack developer** building both front-end and back-end applications  
+- 🕹️ **Game developer** crafting interactive experiences with Unity & Unreal Engine  
+- 📚 **Lifelong learner**, currently diving into JavaScript & TypeScript   
+
+---
+
+<!-- ============= CONTRIBUTION SNAKE ============= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aleyna-tturan&label=Profile%20views&color=0e75b6&style=flat" alt="aleyna-tturan" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/snk.svg" alt="Contribution Snake" />
 </p>
 
-<!-- GitHub Trophy -->
+---
+
+<!-- =================== TECH STACK =================== -->
+### Tech Stack
+
+**Languages**  
+`JavaScript` | `TypeScript` | `C#` | `C++` | `Java` | `HTML/CSS` | `PHP`
+
+**Frameworks & Engines**  
+`React` | `Next.js` | `React Native` | `Unity` | `Unreal Engine 5`
+
+**Database**  
+`MongoDB` | `MySQL` | `ORACLE`
+
+**Tools & Libraries**  
+`Android Studio` | `Firebase`
+
+---
+
+<!-- ================= CONNECT WITH ME ================ -->
+### Connect With Me
+- 🔗 Portfolio & Blog: [aleyna.dev](https://aleyna.dev)  
+- 📱 GitHub: [github.com/aleyna-tturan](https://github.com/aleyna-tturan)  
+- 📧 Email: turanaleyna469@gmail.com  
+- 📸 Instagram: [@turanmisslina](https://instagram.com/turanmisslina)  
+
+---
+
+<!-- =================== GITHUB STATS =================== -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aleyna-tturan&margin-w=5&margin-h=5" alt="github-trophy" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aleyna-tturan&show_icons=true&locale=tr" 
+       alt="Aleyna's GitHub Stats" />
 </p>
 
-<!-- İletişim -->
-<h3 align="left">Benimle iletişime geçin:</h3>
+---
+
+<!-- =================== FINAL WORDS =================== -->
+> “Coding turns ideas into reality and challenges into achievements.”  
+
+Stay curious. Stay creative.  
+
+---
+
+<!-- ==================== PINNED ==================== -->
+### Pinned Projects
 <p align="left">
-  <a href="https://instagram.com/turanmisslina" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turanmisslina" width="30" height="30" />
+  <a href="https://github.com/aleynaturan/museum-guide" target="_blank">  
+    <img src="https://img.shields.io/badge/Museum%20Guide-React%20Native-blue?style=for-the-badge" alt="Museum Guide" />
   </a>
-</p>
-
-<!-- Diller ve Araçlar -->
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30" />
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal engine" width="30" height="30" />
-</p>
-
-<!-- En Çok Kullanılan Diller -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleyna-tturan&show_icons=true&locale=tr&layout=compact" alt="aleyna-tturan-top-langs" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleyna-tturan&show_icons=true&locale=tr" alt="aleyna-tturan-stats" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleyna-tturan" alt="aleyna-tturan-streak" />
+  <a href="https://github.com/aleynaturan/raccoon-adventure" target="_blank">  
+    <img src="https://img.shields.io/badge/Raccoon%20Adventure-Unreal%20Engine-green?style=for-the-badge" alt="Raccoon Adventure" />
+  </a>
+  <a href="https://github.com/aleynaturan/portfolio" target="_blank">  
+    <img src="https://img.shields.io/badge/Portfolio-Vue%20&%20GSAP-orange?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
