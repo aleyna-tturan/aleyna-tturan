@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleyna-tturan&show_icons=true&locale=tr&layout=compact" alt="aleyna-tturan" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleyna-tturan&show_icons=true&locale=tr" alt="aleyna-tturan" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleyna-tturan&show_icons=true&locale=tr" alt="aleyna-tturan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleyna-tturan&" alt="aleyna-tturan" /></p>
