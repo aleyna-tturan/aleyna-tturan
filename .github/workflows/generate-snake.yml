@@ -1,18 +1,24 @@
 name: Generate Contribution Snake
 
+# Elle de tetikleyebiliriz
 on:
-  workflow_dispatch:      # 👈 bu satırı ekledik (elle tetikleme)
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'   # her gün gece yarısı UTC
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
+
+# İzinleri tanımlıyoruz ki GITHUB_TOKEN ile commit edebilelim
+permissions:
+  contents: write
 
 jobs:
   generate_snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Generate snake SVG
         uses: platane/snk@v3
@@ -24,5 +30,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
           git add dist/github-contribution-grid-snake.svg
-          git commit -m "chore: update contribution snake"
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
           git push
