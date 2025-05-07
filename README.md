@@ -1,75 +1,85 @@
-<!-- ==================== HEADER ==================== -->
-<h1 align="center">I'm Aleyna Turan 👋</h1>
-<h3 align="center">Full-Stack Developer & Interactive Game Creator from Turkey</h3>
+# I'm Aleyna Turan 👋  
+🔷 **Full-Stack Developer & Interactive Game Creator from Turkey** 🔷  
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-### About Me
-- 💻 **Full-stack developer** building both front-end and back-end applications  
-- 🕹️ **Game developer** crafting interactive experiences with Unity & Unreal Engine  
-- 📚 **Lifelong learner**, currently diving into JavaScript & TypeScript   
+## 📝 About Me
+- 💻 **Full-stack developer** building front- & back-end applications  
+- 🕹️ **Game developer** crafting experiences with Unity & Unreal  
+- 📚 **Lifelong learner**: diving into JavaScript & TypeScript  
 
 ---
 
-<!-- ============= CONTRIBUTION SNAKE ============= -->
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/snk.svg" alt="Contribution Snake" />
+  ![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/master/img/snk.svg)
 </p>
 
 ---
 
-<!-- =================== TECH STACK =================== -->
-### Tech Stack
-
-**Languages**  
-`JavaScript` | `TypeScript` | `C#` | `C++` | `Java` | `HTML/CSS` | `PHP`
-
-**Frameworks & Engines**  
-`React` | `Next.js` | `React Native` | `Unity` | `Unreal Engine 5`
-
-**Database**  
-`MongoDB` | `MySQL` | `ORACLE`
-
-**Tools & Libraries**  
-`Android Studio` | `Firebase`
+## ⚙️ Tech Stack
+**Languages:** JavaScript | TypeScript | C# | C++ | Java  
+**Frameworks/Engines:** React | Next.js | React Native | Unity | Unreal  
+**Databases & Tools:** MongoDB | MySQL | Oracle | Firebase | Android Studio  
 
 ---
 
-<!-- ================= CONNECT WITH ME ================ -->
-### Connect With Me
-- 🔗 Portfolio & Blog: [aleyna.dev](https://aleyna.dev)  
-- 📱 GitHub: [github.com/aleyna-tturan](https://github.com/aleyna-tturan)  
-- 📧 Email: turanaleyna469@gmail.com  
+## 🔗 Connect With Me
+- 🌐 Portfolio: [aleyna.dev](https://aleyna.dev)  
+- 👩‍💻 GitHub: [github.com/aleyna-tturan](https://github.com/aleyna-tturan)  
+- ✉️ Email: turanaleyna469@gmail.com  
 - 📸 Instagram: [@turanmisslina](https://instagram.com/turanmisslina)  
 
 ---
 
-<!-- =================== GITHUB STATS =================== -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleyna-tturan&show_icons=true&locale=tr" 
-       alt="Aleyna's GitHub Stats" />
+  <!-- Genel İstatistik Kartı -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aleyna-tturan&show_icons=true&locale=tr&theme=dark&title_color=FFB6C1&icon_color=FFDAB9&text_color=C9D1D9&bg_color=0D1117" 
+    alt="Aleyna'nın GitHub İstatistikleri" />
+</p>
+
+<p align="center">
+  <!-- Yıllık Katkı Grafiği -->
+  <img 
+    src="https://ghchart.rshah.org/aleyna-tturan?theme=dracula" 
+    alt="Yıllık katkı grafiği" 
+    width="700" />
 </p>
 
 ---
 
-<!-- =================== FINAL WORDS =================== -->
+## 💡 Final Words  
 > “Coding turns ideas into reality and challenges into achievements.”  
-
-Stay curious. Stay creative.  
+> “Kodlama, fikirleri gerçeğe, zorlukları başarıya dönüştürür.”  
 
 ---
 
-<!-- ==================== PINNED ==================== -->
-### Pinned Projects
-<p align="left">
-  <a href="https://github.com/aleynaturan/museum-guide" target="_blank">  
-    <img src="https://img.shields.io/badge/Museum%20Guide-React%20Native-blue?style=for-the-badge" alt="Museum Guide" />
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/aleynaturan/museum-guide" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Museum%20Guide-React%20Native-FFB6C1?style=for-the-badge"
+      alt="Museum Guide"
+      height="40"
+    />
   </a>
-  <a href="https://github.com/aleynaturan/raccoon-adventure" target="_blank">  
-    <img src="https://img.shields.io/badge/Raccoon%20Adventure-Unreal%20Engine-green?style=for-the-badge" alt="Raccoon Adventure" />
+  <a href="https://github.com/aleynaturan/raccoon-adventure" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Raccoon%20Rascal-Unity-1CA3EC?style=for-the-badge"
+      alt="Raccoon Rascal"
+      height="40"
+    />
   </a>
-  <a href="https://github.com/aleynaturan/portfolio" target="_blank">  
-    <img src="https://img.shields.io/badge/Portfolio-Vue%20&%20GSAP-orange?style=for-the-badge" alt="Portfolio" />
+  <a href="https://github.com/aleynaturan/portfolio" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Vue%20%26%20GSAP-98FF98?style=for-the-badge"
+      alt="Portfolio"
+      height="40"
+    />
   </a>
 </p>
+
