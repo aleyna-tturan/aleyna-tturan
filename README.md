@@ -1,3 +1,9 @@
+https://komarev.com/ghpvc/?username=aleyna-tturan&label=Profile%20views&color=0e75b6&style=flat
+https://github-profile-trophy.vercel.app/?username=aleyna-tturan
+https://github-readme-stats.vercel.app/api?username=aleyna-tturan&show_icons=true&locale=tr
+https://github-readme-streak-stats.herokuapp.com/?user=aleyna-tturan
+
+
 <h1 align="center">Merhaba 👋, ben Aleyna Turan</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
