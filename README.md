@@ -42,7 +42,7 @@ To enable, add this workflow at **.github/workflows/generate-snake.yml**:
 
 ### 🔗 Connect With Me
 
-- 🌐 Portfolio & Blog: [aleyna.dev](https://aleyna.dev)  
+- 🌐 Portfolio & Blog: [aleyna.dev](https://aleyna-tturan.github.io/)  
 - 👩‍💻 GitHub: [github.com/aleyna-tturan](https://github.com/aleyna-tturan)  
 - ✉️ Email: turanaleyna469@gmail.com  
 - 📸 Instagram: [@turanmisslina](https://instagram.com/turanmisslina)  
